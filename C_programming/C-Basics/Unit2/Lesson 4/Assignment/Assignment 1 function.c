@@ -23,7 +23,6 @@ void is_prime(int small,int large)
 	while(small <= large)
 	{
 		j=2;
-		//inum = sqrt(small);
 		flag = 1;
 		while(j <= small/2)
 		{
