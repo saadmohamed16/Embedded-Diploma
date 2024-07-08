@@ -1,4 +1,0 @@
-[submodule "Embedded C/public"]
-	path = Embedded C/public
-	url = https://github.com/saadmohamed16/Embedded-Diploma.git
-	branch = master
